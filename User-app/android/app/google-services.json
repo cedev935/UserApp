@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "54820554355",
+    "project_id": "pet-time-first",
+    "storage_bucket": "pet-time-first.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:54820554355:android:fb23af66236f1bcc88cc06",
+        "android_client_info": {
+          "package_name": "com.pettimefirst.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxhbs_HHZck1MbElX2lMSq0Ywu3S23VQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
